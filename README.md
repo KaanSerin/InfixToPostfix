@@ -3,7 +3,7 @@ A C program for converting an infix expression to a postfix expression
 To complete this project, I utilized the Stack data structure. The stack has a 'top' variable for
 indicating the 'top' of the stack and a character pointer which is resized to avoid unnecessary memory usage.
 
-The rest of the programming was implementing the algorithm which boils down to this:
+<b>The rest of the programming was implementing the algorithm which boils down to this:</b>
 <br>Step 1: Add '')" to the end of the infix expression<br>
 Step 2: Push(o nto the stack<br>
 Step 3: Repeat until each character in the infix notation is scanned<br>
