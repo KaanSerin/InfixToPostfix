@@ -18,3 +18,7 @@ b. Push the operator to the stack<br>
 [END OF IF]<br>
 Step 4: Repeatedly pop from the stack and add it to the postfix expression until the stack is empty<br>
 Step 5: EXIT
+
+For Ex
+> Input: A+B/C*(D-A)^F^H
+> Output: ABC/DA-FH^^*+
