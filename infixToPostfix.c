@@ -1,7 +1,6 @@
 //
-//  stacks.c
-//  stacks
-//
+// Infix to postfix conversion
+//  Using stacks and pointers
 //  Created by Kaan on 8.01.2020.
 //  Copyright © 2020 Kaan. All rights reserved.
 //
