@@ -4,7 +4,7 @@ To complete this project, I utilized the Stack data structure. The stack has a '
 indicating the 'top' of the stack and a character pointer which is resized to avoid unnecessary memory usage.
 
 <b>The rest of the programming was implementing the algorithm which boils down to this:</b>
-<br>Step 1: Add '')" to the end of the infix expression<br>
+> <br>Step 1: Add '')" to the end of the infix expression<br>
 Step 2: Push(o nto the stack<br>
 Step 3: Repeat until each character in the infix notation is scanned<br>
 IF a(is encountered, push it on the stack<br>
