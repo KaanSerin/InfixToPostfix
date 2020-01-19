@@ -20,5 +20,5 @@ Step 4: Repeatedly pop from the stack and add it to the postfix expression until
 Step 5: EXIT
 
 For Ex
-> Input: A+B/C*(D-A)^F^H
+> Input: A+B/C*(D-A)^F^H <br>
 > Output: ABC/DA-FH^^*+
